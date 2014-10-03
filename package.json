@@ -1,0 +1,11 @@
+{
+  "name": "pz-json",
+  "version": "0.0.0",
+  "description": "json utils",
+  "main": "pz-json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dave lilly",
+  "license": "BSD-2-Clause"
+}
